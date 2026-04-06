@@ -1,6 +1,6 @@
 
 # Methods Description & Bibliography
-** Spiking Neural Networks vs. Artificial Neural Networks — Training Efficiency, Accuracy, and Deployment **  
+**Spiking Neural Networks vs. Artificial Neural Networks — Training Efficiency, Accuracy, and Deployment**
   
 
 ---
