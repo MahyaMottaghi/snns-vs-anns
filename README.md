@@ -12,4 +12,4 @@ Experiments will run on UTSA ARC HPC GPU/CPU nodes using matched architectures a
 ## Pages
 
 - [Bibliography](bibliography.md)
-- [Implementation Plan](implementation.md)
+- [Implementation](implementation.md)
