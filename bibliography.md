@@ -1,7 +1,7 @@
 
 # Methods Description & Bibliography
-**Energy–Latency–Accuracy Trade-offs: SNNs vs. ANNs**  
-*Evaluation Across Dense and Sparse/Event-Driven Datasets*  
+** Spiking Neural Networks vs. Artificial Neural Networks — Training Efficiency, Accuracy, and Deployment **  
+  
 
 ---
 
