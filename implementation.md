@@ -175,12 +175,21 @@ Method 4 trains a ReLU ANN to convergence, then converts it to an IF-neuron SNN 
 ## References
 
 [1] Neftci, E. O., et al. (2019). Surrogate gradient learning in spiking neural networks. *IEEE SPM*, 36(6), 51–63.
+
 [2] Eshraghian, J. K., et al. (2023). Training spiking neural networks using lessons from deep learning. *Proc. IEEE*, 111(9), 1016–1054.
+
 [3] Fang, W., et al. (2023). SpikingJelly: An open-source machine learning infrastructure platform. *Science Advances*, 9(40), eadi1480.
+
 [4] Rueckauer, B., et al. (2017). Conversion of continuous-valued deep networks to efficient event-driven networks. *Frontiers in Neuroscience*, 11, 682.
+
 [5] He, K., et al. (2016). Deep residual learning for image recognition. *CVPR*, 770–778.
+
 [6] Paszke, A., et al. (2019). PyTorch: An imperative style, high-performance deep learning library. *NeurIPS*, 32.
+
 [7] Wu, Y., et al. (2018). Spatio-temporal backpropagation for training high-performance spiking neural networks. *Frontiers in Neuroscience*, 12, 331.
+
 [8] NeuroBench Collaborative. (2025). The NeuroBench framework. *Nature Communications*, 16, 1840.
+
 [9] Kudithipudi, D., et al. (2025). Neuromorphic computing at scale. *Nature*, 637, 801–812.
+
 [10] Mayr, C., et al. (2024). SpiNNaker2. *arXiv:2401.04491*.
