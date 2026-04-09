@@ -32,7 +32,6 @@ All experiments were conducted on the UTSA ARC high-performance computing cluste
 | Python | 3.10 (Anaconda 2024.10-1) |
 | SNN Frameworks | SNNTorch (M1), SpikingJelly torch backend (M2, M4) |
 | Job Scheduler | SLURM (sbatch, single-node single-GPU jobs) |
-| Max Job Duration | 72 hours (gpu1v100 partition limit) |
 
 ## 3. Shared Architecture and Dataset
 
