@@ -1,0 +1,4 @@
+T,run,epoch,forward_time_sec,backward_time_sec,data_loading_time_sec,total_epoch_time_sec,train_loss,test_accuracy_pct,inference_time_sec,total_params
+1,1,10,0.3028,0.7694,8.5841,9.6562,0.009474,98.98,1.5572,428354
+1,2,10,0.303,0.7695,8.5834,9.6559,0.008729,99.02,1.5625,428354
+1,3,10,0.304,0.775,8.561,9.64,0.009755,98.95,1.57,428354

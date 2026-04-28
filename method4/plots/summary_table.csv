@@ -1,0 +1,5 @@
+Method,Framework,Best Acc (%),T at Best,Epoch Time (s),Fwd (s),Bwd (s),Inference (s),Params
+ANN Baseline (M3),PyTorch,99.02,1,9.65,0.30,0.77,1.56,"428,354"
+SNNTorch (M1),SNNTorch,98.23,32,56.28,37.05,17.50,5.84,"428,354"
+SpikingJelly (M2),SpikingJelly,97.94,16,19.25,8.04,10.65,1.79,"428,354"
+ANN→SNN (M4),SpikingJelly ann2snn,99.19,512,N/A,N/A,N/A,26.43,"428,354"
